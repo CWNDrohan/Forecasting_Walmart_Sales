@@ -54,6 +54,17 @@ walmart-sales-forecasting/
 ├── thumbnail.png                          # GitHub/LinkedIn visual
 └── README.md
 ```
+# Data Sources
+
+This project uses data from the [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting) competition on Kaggle.
+
+Due to Kaggle’s licensing terms, raw data files (`train.csv`, `features.csv`, `stores.csv`) are not included in this repository.
+
+To obtain the data:
+1. Visit the Kaggle competition page linked above
+2. Accept the terms and download the datasets
+3. Place the CSV files in a `data/` folder
+
 
 ---
 
